@@ -1,6 +1,6 @@
 # Hello
 <h1 align="center">Hi 👋, I'm Oğuzhan Kahraman</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Full Stack Software Developer</h3>
 
 - 🌱 I’m currently learning **.NET, REACT, VueJS, Modern JS ES6-7**
 
