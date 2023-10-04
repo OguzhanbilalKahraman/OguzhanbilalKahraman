@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Kahraman</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **.NET, REACT, VueJS, Modern JS ES6-7**
+- 🌱 I’m currently learning **.NET, REACT, NodeJS, Modern JS ES6-7**
 
 - 📫 How to reach me **oguzhanbilalk@gmail.com**
 
